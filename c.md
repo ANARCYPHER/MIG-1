@@ -4,3 +4,5 @@ https://beginnersbook.com/2014/01/c-operator-precedence-table/
 https://beginnersbook.com/2014/01/c-if-statement/
 https://beginnersbook.com/2014/01/c-if-else-statement-example/
 https://beginnersbook.com/2014/01/c-for-loop/
+https://beginnersbook.com/2014/01/c-while-loop/
+
