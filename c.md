@@ -10,4 +10,4 @@ https://beginnersbook.com/2014/01/c-continue-statement/
 https://beginnersbook.com/2014/01/c-break-statement/
 https://beginnersbook.com/2014/01/switch-case-statements-in-c/
 https://beginnersbook.com/2014/01/c-goto-statement/
-
+https://beginnersbook.com/2014/01/c-arrays-example/
