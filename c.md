@@ -12,3 +12,4 @@ https://beginnersbook.com/2014/01/switch-case-statements-in-c/
 https://beginnersbook.com/2014/01/c-goto-statement/
 https://beginnersbook.com/2014/01/c-arrays-example/
 https://beginnersbook.com/2014/01/2d-arrays-in-c-example/
+https://beginnersbook.com/2014/01/c-strings-string-functions/
